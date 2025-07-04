@@ -11,9 +11,9 @@ Universidad Politécnica de Madrid (UPM), julio de 2025.
 ## Contenido del repositorio
 
 - `HernandezSieber_Alejandra_TFG.Rmd`: Código principal del TFG en formato R Markdown.
-- 'HernandezSieber_Alejandra_TFG.html': Código principal del TFG en formato html.
-- 'Estudio_de_mercados.Rmd': Código adicional para el estudio de los mercados.
-- 'Descarga datos por mercado.ipynb': Código para la generación de archivos .csv con los datos de mercado.
+- `HernandezSieber_Alejandra_TFG.html`: Código principal del TFG en formato html.
+- `Estudio_de_mercados.Rmd`: Código adicional para el estudio de los mercados.
+- `Descarga datos por mercado.ipynb`: Código para la generación de archivos .csv con los datos de mercado.
 - Archivos .csv generados.
 - Carpetas adicionales con:
   - Gráficos generados.
