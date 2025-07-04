@@ -1,2 +1,2 @@
-# AlejTFG-Modelizacion-estocastica-del-precio-de-activos-financieros-considerando-ruido-no-Gaussiano
+# TFG-Modelizacion-estocastica-del-precio-de-activos-financieros-considerando-ruido-no-Gaussiano
 Este repositorio contiene el código, simulaciones y material gráfico desarrollado en el contexto del Trabajo de Fin de Grado (TFG) titulado "Modelización estocástica del precio de activos financieros considerando ruido no Gaussiano", realizado por Alejandra Hernández Sieber en la Universidad Politécnica de Madrid (UPM), julio de 2025.
